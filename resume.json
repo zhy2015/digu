@@ -9,44 +9,42 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "src": "https://i.postimg.cc/59HFc3wD/gudi.jpg",
     "hidden": false
   },
   "profile": {
     "name": "顾迪 (Di Gu)",
-    "email": "zhy20152015@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "email": "1774058097@qq.com",
+    "mobile": "18056060863",
+    "workExpYear": "4"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2016.09.01",
+        "2019.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
-      "academic_degree": "本科"
+      "school": "安徽水利水电职业技术学院",
+      "major": "输配电",
+      "academic_degree": "大专"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "全国计算机二级",
+      "award_time": "2017.03"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "CAD一级",
+      "award_time": "2017.09"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "街舞大赛 一等奖",
+      "award_time": "2018.10"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "学院毕业晚会 主持人",
+      "award_time": "2019.07"
     }
   ],
   "workExpList": [
